@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3664ba22e0bcd37529c89a66",
+  "owner": "neejxxpus",
+  "repo": "page-d645f16b605d841a0cf4e37e",
+  "title": "Magic",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d645f16b605d841a0cf4e37e",
+      "a": "Magic",
+      "b": "",
+      "entity": "Magic",
+      "brand": "Magic",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b28f411fc2d9b1d4b971a2e6afca2e6377bb0a4f9af837c89b986ec8521d3ad1",
+      "content": {
+        "keyword1": "Magic",
+        "keyword2": "",
+        "primary_entity": "Magic",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Magic 提供稳定高速的机场订阅与 VPN 客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，支持多端配置与官方下载入口。",
+          "AI_DESCRIPTION": "Magic 提供稳定高速的机场订阅与 VPN 客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，支持多端配置与官方下载入口。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box;font-size:16px}*,*:before,*:after{box-sizing:inherit}body{margin:0;background:#f3f2f6;color:#1a1724;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans SC\",sans-serif;line-height:1.7}a{color:#5b35c4;text-decoration:none}header{background:#fff;border-bottom:1px solid #e4e1ea;padding:0.85rem 1rem}nav{display:flex;flex-wrap:wrap;gap:0.65rem 1rem;max-width:760px;margin:0 auto;align-items:center}nav .brand{font-weight:700;color:#4a27a8;margin-right:auto}nav a{font-size:0.95rem}.hero{padding:4.5rem 1.25rem 2.8rem;text-align:center}.hero h1{margin:0 0 1rem;font-size:2.05rem;line-height:1.25;color:#3d1f96;letter-spacing:-0.02em}.hero p{margin:0 auto;max-width:36em;color:#4d4860;font-size:1.05rem}main{max-width:760px;margin:0 auto;padding:0 1.25rem 3rem}section{margin:0 0 2.2rem}h2{margin:0 0 0.9rem;font-size:1.35rem;color:#3d1f96;padding-bottom:0.35rem;border-bottom:2px solid #cbbcf3}h3{margin:1.2rem 0 0.5rem;font-size:1.08rem;color:#4a27a8}p,li{color:#2b2738}ul,ol{padding-left:1.2rem}li{margin:0.28rem 0}.muted{color:#5c5670}.plans{display:flex;flex-direction:column;gap:0.9rem}.plan{background:#fff;border:1px solid #ddd7e8;border-radius:10px;padding:1.1rem 1.15rem}.plan.featured{border-color:#5b35c4;box-shadow:0 6px 18px rgba(91,53,196,0.12)}.plan h3{margin-top:0}.price{font-size:1.25rem;font-weight:700;color:#3d1f96}.annual{font-size:0.92rem;color:#5c5670;margin:0.15rem 0 0.6rem}.cta{display:inline-block;margin-top:0.7rem;padding:0.45rem 0.9rem;background:#5b35c4;color:#fff;border-radius:6px}.steps{background:#fff;border:1px solid #ddd7e8;border-radius:10px;padding:1rem 1.15rem 1.15rem}.steps ol{margin:0}details{background:#fff;border:1px solid #ddd7e8;border-radius:8px;padding:0.7rem 0.9rem;margin:0.55rem 0}summary{font-weight:650;color:#2b1a6b}details p{margin:0.45rem 0 0}footer{background:#eceaf2;border-top:1px solid #ddd7e8;padding:1.6rem 1.25rem 2.2rem;color:#4d4860}footer .wrap{max-width:760px;margin:0 auto}footer h2{font-size:1.05rem;border:0;padding:0;margin:1rem 0 0.4rem}footer ul{list-style:none;padding:0;margin:0}footer li{margin:0.2rem 0}@media (min-width:640px){.hero{padding-top:5.4rem;padding-bottom:3.2rem}.hero h1{font-size:2.55rem}.plans{flex-direction:row;flex-wrap:wrap}.plan{flex:1 1 220px}}</style><header><nav><a class=\"brand\" href=\"#top\">Magic</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#download\">下载</a><a href=\"#guide\">配置流程</a><a href=\"#faq\">常见问题</a></nav></header><div class=\"hero\" id=\"top\"><h1>Magic</h1><p>Magic 官方网站面向需要稳定梯子与网络加速的用户，提供机场订阅、多端客户端下载与清晰的配置流程，让跨境访问、流媒体与游戏加速可按步骤完成。</p></div><main><section id=\"intro\"><h2>品牌简介</h2><p>Magic 是面向个人与小团队的网络加速服务。页面所介绍的 Magic VPN 与 Magic 机场订阅，强调线路可用性、导入简便与多设备协同，而不是堆砌无法核验的宣传数字。</p><p>服务覆盖日常浏览、海外流媒体、在线会议与轻度竞技游戏。节点池包含常规中转与 IPLC 专线类别，旗舰与团队档位更侧重原生流媒体解锁和游戏优化。订阅可在 Clash 系、Shadowrocket 等常见客户端中导入，完成一次配置后即可按需切换节点。</p><p class=\"muted\">身份说明：本页为 Magic 品牌信息与下载指引页。获取套餐与安装包请以站内套餐区、下载区及工单通道为准，避免来路不明的第三方转发链接。</p></section><section><h2>使用场景</h2><h3>工作与学习</h3><p>远程会议、代码仓库、文献数据库与云盘同步需要持续稳定的出口。Magic 基础线路即可满足网页与文档类访问；对延迟敏感的协作工具，可在客户端中固定延迟较低的专线节点。</p><h3>流媒体与内容</h3><p>观看影视、音乐与直播时，优先选择带流媒体标签的节点。旗舰版与团队版强调全节点原生解锁能力，减少因地区库差异导致的播放失败。</p><h3>游戏与实时应用</h3><p>需要更低抖动时，使用 IPLC 游戏优化线路，并在客户端开启 TUN 或系统代理，避免部分游戏只走浏览器代理。团队版提供更高带宽节点，适合多人同时在线。</p></section><section id=\"plans\"><h2>套餐说明</h2><p>以下为当前公开档位。流量按自然月重置，设备数为同时在线上限。年付价格用于降低长期使用成本，具体开通仍以结算页为准。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#download\">前往订阅</a></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#download\">选择旗舰版</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#download\">咨询团队版</a></article></div></section><section id=\"download\"><h2>客户端下载</h2><p>Magic 不绑定单一封闭客户端。完成机场订阅后，将订阅链接导入主流加速器即可。官方下载入口用于获取经说明的安装包与导入示例，避免使用来源不明的修改版。</p><h3>桌面端</h3><ul><li>Windows：Clash Meta / Mihomo 图形客户端，适合系统代理与 TUN。</li><li>macOS：Clash Verge 或兼容 Clash 订阅的客户端，便于菜单栏快速切换。</li></ul><h3>移动端</h3><ul><li>Android：Clash Meta for Android 或同类开源客户端。</li><li>iOS：Shadowrocket、Stash 等支持订阅的应用（需自行准备可用商店账号）。</li></ul><p><a class=\"cta\" href=\"#guide\">查看配置流程后下载</a></p><p class=\"muted\">若安装包校验失败，请回到本页下载区重新获取，不要继续使用被篡改的文件。</p></section><section id=\"guide\"><h2>配置流程</h2><p>Magic 的使用核心是「购买订阅 → 下载客户端 → 导入链接 → 选择节点连接」。按下面顺序操作，可减少第一次连接失败。</p><div class=\"steps\"><h3>第一步：获取订阅</h3><ol><li>在套餐区选择基础版、旗舰版或团队版并完成支付。</li><li>进入用户中心复制 Clash / 通用订阅 URL，保持整段无空格。</li><li>如需多人使用，团队版可按设备数分配独立配置，避免互相踢线。</li></ol><h3>第二步：安装客户端</h3><ol><li>根据系统从下载区安装对应加速器，不要混用过旧内核。</li><li>首次启动允许本地代理或 VPN 配置权限（系统会弹出授权提示）。</li><li>关闭其他同类工具，防止端口占用。</li></ol><h3>第三步：导入并连接</h3><ol><li>在客户端选择「从 URL 导入」或「订阅管理」，粘贴 Magic 订阅链接。</li><li>更新节点列表，确认出现普通线路、流媒体与 IPLC 分组。</li><li>选择延迟较低的节点，开启系统代理或 TUN 模式后访问目标站点验证。</li><li>流媒体失败时改选带解锁标签的节点；游戏卡顿时改选 IPLC 分组。</li></ol></div><p>配置完成后，日常只需更新订阅、按场景切换节点。设备更换时重复导入即可，无需重新购买。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Magic 官方客户端在哪里下载？</summary><p>在本页「客户端下载」章节按系统选择。Magic 以订阅为核心，桌面与安卓可使用 Clash Meta 系客户端，iOS 使用支持订阅的商店应用。只从官网或本页指引获取安装包。</p></details><details><summary>机场订阅链接导入失败怎么处理？</summary><p>检查链接是否被截断、是否含中文空格。确认客户端协议支持 Clash 订阅。可删除旧订阅后重新导入，或更换客户端后再更新节点。若仍失败，通过工单提交客户端名称与报错原文。</p></details><details><summary>如何按步骤完成第一次配置？</summary><p>先购买套餐复制订阅，再安装对应加速器，最后在客户端粘贴 URL 并更新。连接时先选普通节点验证网络，再按需求切换流媒体或 IPLC。完整顺序见上方「配置流程」。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>单人轻度浏览选基础版；需要原生流媒体、游戏专线与优先工单选旗舰版；多人同时在线、定制路由或高带宽选团队版。设备超限会导致新连接失败，请按同时在线台数选择。</p></details><details><summary>流量用完或节点连不上怎么办？</summary><p>流量按自然月重置，用尽后可能限速或暂停，可升级套餐或等待下月。连不上时先更新订阅、更换节点与模式（系统代理 / TUN），并排除本地防火墙拦截。持续异常可走旗舰或团队支持通道。</p></details><details><summary>Magic VPN 能否解锁常见流媒体？</summary><p>基础版覆盖基础流媒体；旗舰版与团队版强调全节点原生解锁，适合 Netflix 等对住宅出口更敏感的平台。实际效果以节点标签和当时线路状态为准，播放失败请切换解锁分组而非反复刷新同一节点。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>Magic 官方网站 · 机场订阅与客户端下载说明</p><h2>广告</h2><ul><li><a href=\"#plans\">当前套餐年付优惠说明</a></li><li><a href=\"#download\">客户端更新与校验提醒</a></li></ul><h2>友情链接</h2><ul><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#download\">官方下载</a></li><li><a href=\"#intro\">品牌简介</a></li></ul><h2 id=\"sitemap\">网站地图</h2><ul><li><a href=\"#top\">首页</a></li><li><a href=\"#plans\">套餐</a></li><li><a href=\"#download\">下载</a></li><li><a href=\"#guide\">配置</a></li><li><a href=\"#faq\">FAQ</a></li></ul></div></footer>",
+          "hash": "0c8916f808993597382476c3cfc0b90353ebe8f90db432e99363026fa6357aaa",
+          "seo": {
+            "title": "Magic官网：VPN梯子网络加速与机场订阅客户端官方下载",
+            "keywords": "Magic,Magic官网,Magic VPN,Magic机场,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "Magic 提供稳定高速的机场订阅与 VPN 客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，支持多端配置与官方下载入口。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "eamols.cn",
+    "host": "p-7ab704acc3.eamols.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "eamols.cn",
+      "url": "https://eamols.cn/",
+      "label": "GO加速(Gogoo)",
+      "apex": "eamols.cn",
+      "kind": null,
+      "identity": "evckbvq/page-8dc5092ecc77fcb467e89a2e"
+    },
+    {
+      "host": "tjthkj.cn",
+      "url": "https://tjthkj.cn/",
+      "label": "Magic",
+      "apex": "tjthkj.cn",
+      "kind": null,
+      "identity": "csewppcad/page-1c2950cbc249060501cf47c7"
+    },
+    {
+      "host": "udvurlr.cn",
+      "url": "https://udvurlr.cn/",
+      "label": "Magic",
+      "apex": "udvurlr.cn",
+      "kind": null,
+      "identity": "espdhy/page-05836fccfcbe2c9cfefef300"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8b980996f06377417592cd9920ba4a99ed8740f6faf5d7d1e1b31d1b65a24d99",
+    "sitemap.xml": "7b954ac2fff36c25284537e3dddb06db9286fbb2264a980e9a07bc37db4c1bc1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d602e176658210dcc07f00fbf7f5e52146e0191a2efff4e0d522cef625163d0a",
+    "robots.txt": "12dd4ac0bd7688ba7919b8d3138ef534ab2546e4d371b9a76f49dd91c41c1d29",
+    "1dc2a03df95e64c6b62739842b1adfd6.txt": "9eac04acdd4767d2fb056e4146a7c4840f43167d05efcb07cf71cb88e49d0a7d"
+  },
+  "revision": "789775d1322d12bd282a0ab320776be5bf09f54c4aa55dc5ddd0b1ea9c3e6102"
+}
